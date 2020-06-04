@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62460831-6dd5-4107-b6ae-55c8381a250f" name="Default Changelist" comment="" />
+    <list default="true" id="62460831-6dd5-4107-b6ae-55c8381a250f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Charper02/HelloWorld.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Charper02/HelloWorld.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
@@ -55,18 +59,53 @@
       <option name="presentableId" value="Default" />
       <updated>1591288161705</updated>
       <workItem from="1591288165753" duration="19000" />
-      <workItem from="1591288186843" duration="27000" />
+      <workItem from="1591288186843" duration="423000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="746" y="277" key="#C_Primer" timestamp="1591288316741">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state x="746" y="277" key="#C_Primer/0.0.2083.1132@0.0.2083.1132" timestamp="1591288316741" />
+    <state x="497" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591288500164">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state x="497" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2083.1132@0.0.2083.1132" timestamp="1591288500164" />
     <state x="821" y="321" key="FileChooserDialogImpl" timestamp="1591288175866">
       <screen x="0" y="0" width="2083" height="1132" />
     </state>
     <state x="821" y="321" key="FileChooserDialogImpl/0.0.2083.1132@0.0.2083.1132" timestamp="1591288175866" />
+    <state width="2039" height="312" key="GridCell.Tab.0.bottom" timestamp="1591288539659">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state width="2039" height="312" key="GridCell.Tab.0.bottom/0.0.2083.1132@0.0.2083.1132" timestamp="1591288539659" />
+    <state width="2039" height="312" key="GridCell.Tab.0.center" timestamp="1591288539658">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state width="2039" height="312" key="GridCell.Tab.0.center/0.0.2083.1132@0.0.2083.1132" timestamp="1591288539658" />
+    <state width="2039" height="312" key="GridCell.Tab.0.left" timestamp="1591288539658">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state width="2039" height="312" key="GridCell.Tab.0.left/0.0.2083.1132@0.0.2083.1132" timestamp="1591288539658" />
+    <state width="2039" height="312" key="GridCell.Tab.0.right" timestamp="1591288539659">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state width="2039" height="312" key="GridCell.Tab.0.right/0.0.2083.1132@0.0.2083.1132" timestamp="1591288539659" />
     <state width="641" height="205" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1591288182770">
       <screen x="0" y="0" width="2083" height="1132" />
     </state>
@@ -79,5 +118,9 @@
       <screen x="0" y="0" width="2083" height="1132" />
     </state>
     <state x="543" y="211" key="SettingsEditor/0.0.2083.1132@0.0.2083.1132" timestamp="1591288212957" />
+    <state x="845" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591288326948">
+      <screen x="0" y="0" width="2083" height="1132" />
+    </state>
+    <state x="845" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2083.1132@0.0.2083.1132" timestamp="1591288326948" />
   </component>
 </project>
