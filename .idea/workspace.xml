@@ -64,6 +64,7 @@
       <updated>1591288995391</updated>
       <workItem from="1591288999878" duration="26000" />
       <workItem from="1591289059205" duration="136000" />
+      <workItem from="1591289207764" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="chy">
       <created>1591289154302</created>
@@ -88,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chy" />
